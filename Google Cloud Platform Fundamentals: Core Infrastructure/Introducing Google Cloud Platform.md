@@ -39,3 +39,35 @@
 - Software as a Service
 - Hybrid cloud
 - Virtualized data centers
+
+---
+
+### 4. What type of cloud computing service provides raw compute, storage, and network, organized in ways that are familiar from physical data centers?
+
+- [x] **Infrastructure as a Service**
+  > Correct !
+- Platform as a Service
+- Software as a Service
+- Database as a Service
+
+---
+
+### 5. Which statement is true about the zones within a region?
+
+- The zones within a region are never closer to each other than 160 km.
+- [x] **The zones within a region have fast network connectivity among them.**
+  > Correct !
+- Each zone corresponds to a single physical data center
+- Customers must choose exactly one zone in each region in which to run their resources.
+
+---
+
+### 6. What kind of customer benefits most from billing by the second for cloud resources such as virtual machines?
+
+- [x] **Customers who create and run many virtual machines**
+
+  > Correct !
+
+- Customers who create many virtual machines and leave them running for months
+- Customers who create too few virtual machines to get discounts
+- Customers who create virtual machines running commercially licensed operating systems
