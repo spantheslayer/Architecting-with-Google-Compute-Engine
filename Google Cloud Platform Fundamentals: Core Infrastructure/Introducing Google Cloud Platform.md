@@ -25,5 +25,6 @@
 
 - They use less resources than devices in a physical data center.
 
-- [x] They are manageable separately from the underlying hardware.
-  > Correct !
+**- [x] They are manageable separately from the underlying hardware.**
+
+> Correct !
