@@ -1,4 +1,6 @@
-**1. Choose fundamental characteristics of cloud computing. Mark all that are correct (4 correct responses).**
+# Introducing Google Cloud Platform
+
+### **1. Choose fundamental characteristics of cloud computing. Mark all that are correct (4 correct responses).**
 
 - [x] Customers can scale their resource use up and down
   > Correct !
