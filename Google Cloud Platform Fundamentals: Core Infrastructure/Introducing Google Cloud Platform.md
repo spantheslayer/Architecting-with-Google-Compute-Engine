@@ -14,3 +14,16 @@
 - [x] Customers pay only for what they use or reserve
   > Correct !
 - [ ] Customers are required to commit to multi-year contracts
+
+---
+
+### 2. Choose a fundamental characteristic of devices in a virtualized data center.
+
+- They are available from anywhere on the Internet.
+
+- They are more secure.
+
+- They use less resources than devices in a physical data center.
+
+- [x] They are manageable separately from the underlying hardware.
+  > Correct !
