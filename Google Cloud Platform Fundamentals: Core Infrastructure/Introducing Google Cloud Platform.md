@@ -28,3 +28,14 @@
 - [x] **They are manageable separately from the underlying hardware.**
 
   > Correct !
+
+---
+
+### 3. What type of cloud computing service lets you bind your application code to libraries that give access to the infrastructure your application needs?
+
+- [x] **Platform as a Service**
+  > Correct !
+- Infrastructure as a Service
+- Software as a Service
+- Hybrid cloud
+- Virtualized data centers
