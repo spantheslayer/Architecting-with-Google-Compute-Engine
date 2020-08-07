@@ -1,10 +1,2 @@
-```mermaid
-
-    [*] --> Still
-    Still --> [*]
-
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-```
+stateDiagram-v2
+    state "This is a state description" as s2
